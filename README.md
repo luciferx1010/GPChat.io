@@ -34,9 +34,9 @@ To get started with this project, follow these steps:
 - Support for multiple users: Users can join different chat rooms and communicate with each other.
 
 ## Screenshots
-![1](./screeshots/1.png)
+![1](https://github.com/luciferx1010/GPChat.io/blob/main/Screenshots/1.png)
 
-![2](./screeshots/2.png)
+![2](https://github.com/luciferx1010/GPChat.io/blob/main/Screenshots/2.png)
 
 ## How to Contribute
 
