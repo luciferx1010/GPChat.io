@@ -1,4 +1,4 @@
-# Chat App 📱 using Websockets
+# GPChat App 📱 using Websockets
 
 This is a simple chat application built using Node.js, Express, and Socket.io.
 
@@ -32,6 +32,11 @@ To get started with this project, follow these steps:
 - Real-time messaging: Messages are sent and received instantly using websockets.
 - Simple and intuitive UI: Clean and easy-to-use interface for chatting.
 - Support for multiple users: Users can join different chat rooms and communicate with each other.
+
+## Screenshots
+![1](./screeshots/1.png)
+
+![2](./screeshots/2.png)
 
 ## How to Contribute
 
