@@ -31,7 +31,7 @@ To get started with this project, follow these steps:
 
 - Real-time messaging: Messages are sent and received instantly using websockets.
 - Simple and intuitive UI: Clean and easy-to-use interface for chatting.
-- Support for multiple users: Users can join different chat rooms and communicate with each other.
+- Support for multiple users.
 
 ## Screenshots
 ![1](https://github.com/luciferx1010/GPChat.io/blob/main/Screenshots/1.png)
